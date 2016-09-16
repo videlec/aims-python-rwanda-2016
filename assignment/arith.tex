@@ -1,0 +1,92 @@
+\documentclass[a4paper]{article}
+
+\newcounter{exo}
+
+\newenvironment{exercise}%
+{\par\vspace{\baselineskip}\noindent
+\refstepcounter{exo}%
+\textbf{Exercise \theexo}%
+\par\vspace{\baselineskip}\noindent\ignorespaces}%
+{\smallskip}
+
+\usepackage{paralist}
+\usepackage[margin=2.5cm]{geometry}
+
+\begin{document}
+\thispagestyle{empty}
+\begin{center}
+{\huge Exercises week 1: arithmetic functions}
+\end{center}
+
+\bigskip
+
+For this first sheet of exercises you are asked to create a Jupyter notebook in which you will program several arithmetic functions.
+
+\smallskip
+
+\begin{exercise}
+Write a function \texttt{prod(l)} that returns the product of the elements in the list \texttt{l}. In case the list is empty, the function should return \texttt{1}.
+
+\smallskip\noindent
+For example
+\begin{verbatim}
+>>> prod([1, 3, 2, 3])
+18
+>>> prod([])
+1
+\end{verbatim}
+\end{exercise}
+
+\begin{exercise}
+Write a function \texttt{digits(n, b)} that return the list of digits of the number \texttt{n} in base \texttt{b}.
+
+\smallskip\noindent
+Let $n = 123576537645123412$ written in base 10. What are its digits in base 2? In base 3?
+\end{exercise}
+
+\begin{exercise}
+Write a function \texttt{prime\_range(n)} that return the list of prime numbers less than \texttt{n}. (\textit{hint: use the sieve of Eratosthenes})
+
+\smallskip\noindent
+Use the function \texttt{prime\_range} to answer the following questions
+\begin{compactitem}
+\item How many primes are less than 1243? less than 254321?
+\item How many primes are there between 43123 and 122505?
+\end{compactitem}
+\end{exercise}
+
+\begin{exercise}
+Write a function \texttt{factor(n)} that returns the factorisation of \texttt{n} as a list of pairs \texttt{[[p0, k0], [p1, k1], ..., [pm, km]]} where the \texttt{pi} and \texttt{ki} are respectively the prime numbers and exponents.
+
+\smallskip\noindent
+For example
+\begin{verbatim}
+>>> factor(12)
+[[2, 2], [3, 1]]
+>>> factor(19)
+[[19, 1]]
+\end{verbatim}
+
+\noindent
+What are the factorisation of
+\begin{compactitem}
+\item 533850245821893?
+\item $2^{97} + 1$?
+\item $2^{97} - 1$?
+\end{compactitem}
+\end{exercise}
+
+\begin{exercise}
+Write a function \texttt{sigma(n, k)} that return the sum of the $k$-th power of the divisors of $n$. For example $\sigma(n, 0)$ is the number of divisors of $n$ and $\sigma(n, 1)$ is the sum of divisors. (\textit{hint: you should use the function \texttt{factor}})
+
+\smallskip\noindent
+Could you write a more efficient function \texttt{num\_divisors(n)} that is equivalent to \texttt{sigma(n, 0)}?
+
+\smallskip\noindent
+What is the number less than $1000$ that has the largest number of divisors?
+
+\smallskip\noindent
+What is the number less than $1000$ that has the largest sum of divisors?
+\end{exercise}
+
+\end{document}
