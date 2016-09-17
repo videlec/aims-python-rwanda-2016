@@ -10,6 +10,7 @@
 \begin{center}\begin{minipage}{0.9\linewidth}}%
 {\end{minipage}\end{center}\smallskip}
 
+\usepackage{amsmath}
 \usepackage{paralist}
 \usepackage[margin=2.5cm]{geometry}
 
@@ -61,25 +62,30 @@ Write a function \texttt{digits(n, b)} that return the list of digits of the num
 
 \smallskip\noindent
 Let $n = 123576537645123412$ written in base 10. What are its digits in base 2? In base 3?
-\end{exercise}
-
-Now, recall that a prime number is an integer that has exactly two divisors.
-\begin{exercise}
-Write a function \texttt{prime\_range(n)} that return the list of prime numbers less than \texttt{n}. (\textit{hint: use the sieve of Eratosthenes})
 
 \smallskip\noindent
-Use the function \texttt{prime\_range} to answer the following questions
+What is the sum of the digits of $2^{100}$ written in base 3?
+\end{exercise}
+
+\begin{exercise}
+Write a function \texttt{prime\_range(n)} that returns the list of prime numbers less than \texttt{n}. (\textit{hint: use the sieve of Eratosthenes})
+
+\smallskip\noindent
+Use your function \texttt{prime\_range} to answer the following questions
 \begin{compactitem}
 \item How many primes are less than 1243? less than 254321?
 \item How many primes are there between 43123 and 122505?
+\item Make a graphic of the function $n \mapsto \# \{p: p \leq n \ \text{and $p$ is prime}\}$.
+Could you guess the asymptotic of this function?
 \end{compactitem}
 \end{exercise}
 
-We recall that the set of integers is a unique factorization domain (UFD): any non-zero integer can be written
-uniquely as a product $n = s p_0^{k_0} p_1^{k_1} \ldots p_{m}k^m$, $s$ is a unit, $k_i > 0$ and $p_i$ are prime
-numbers.
+\newpage
+
+We recall that the set of integers is a unique factorization domain (UFD): any non-zero integer can be uniquely written
+ as a product $n = s\ p_0^{k_0}\ p_1^{k_1}\ \ldots\ p_m^{k_m}$, $s$ is the sign (ie either $+1$ or $-1$), $p_i$ are primes and $k_i$ are positive integers.
 \begin{exercise}
-Write a function \texttt{factor(n)} that returns the factorisation of \texttt{n} as a list of pairs
+Write a function \texttt{factor(n)} that returns the factorisation of a positive number \texttt{n} as a list of pairs
 \texttt{[[p0, k0], [p1, k1], ..., [pm, km]]} where the \texttt{pi} and \texttt{ki} are respectively
 the prime numbers and exponents.
 
@@ -98,6 +104,22 @@ What are the factorisation of
 \item 533850245821893?
 \item $2^{97} + 1$?
 \item $2^{97} - 1$?
+\end{compactitem}
+\end{exercise}
+
+\begin{exercise}
+A positive number $n$ is $k$-th power free if there is no integer $m$ greater than 1 so that $m^k$ divides $n$.
+\begin{compactitem}
+\item Write a function \texttt{is\_kth\_power\_free(n)} that tests whether the number $n$ is $k$-th power free.
+\item Make the list of squarefree (ie $2$-nd power free) numbers less than 100.
+\item Program the function \texttt{moebius\_mu(n)} that is the M\"obius $\mu$ function
+$$n \mapsto
+\left\{
+\begin{array}{ll}
+0 & \text{if $n$ is not squarefree} \\
+(-1)^k & \text{if $n$ is a product of $k$ distinct prime numbers} \\
+\end{array} \right.$$
+\item Find the smallest integer $n \geq 2$ so that $\mu(n) = 1$, $\mu(n+1) = -1$ and $\mu(n) = 1$.
 \end{compactitem}
 \end{exercise}
 
