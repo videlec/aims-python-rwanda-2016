@@ -8,9 +8,11 @@ at AIMS Rwanda.
 Week 1
 ------
 
-- [Jupyter Worksheet 1](http://nbviewer.jupyter.org/github/videlec/aims-python-rwanda-2016/blob/master/worksheets/worksheet1.ipynb): basic Python and plotting
-- [Jupyter Worksheet 2](http://nbviewer.jupyter.org/github/videlec/aims-python-rwanda-2016/blob/master/worksheets/worksheet2.ipynb): conditional, loops, iterators
-- [Jupyter Worksheet 3](http://nbviewer.jupyter.org/github/videlec/aims-python-rwanda-2016/blob/master/worksheets/worksheet3.ipynb): writing functions
+Each worksheet will basically occupy a whole seance. You first need to download the worksheet on your computer and then access it through the jupyter notebook.
+
+- [Jupyter worksheet 1](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet1.ipynb) basic Python and plotting ([view it online (read-only version)](http://nbviewer.jupyter.org/github/videlec/aims-python-rwanda-2016/blob/master/worksheets/worksheet1.ipynb))
+- [Jupyter worksheet 2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.ipynb) conditional, loops, iterators ([view it online](http://nbviewer.jupyter.org/github/videlec/aims-python-rwanda-2016/blob/master/worksheets/worksheet2.ipynb))
+- [Jupyter worksheet 3](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3.ipynb) functions ([view it online](http://nbviewer.jupyter.org/github/videlec/aims-python-rwanda-2016/blob/master/worksheets/worksheet3.ipynb))
 - [assignment week 1](https://github.com/videlec/aims-python-rwanda-2016/raw/master/assignment/arith.pdf): arithmetic functions
 
 Week 2 (subject to changes)
