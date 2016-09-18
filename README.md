@@ -3,9 +3,8 @@ Scientific Software Development in Python (AIMS Rwanda lectures 2016)
 ([Vincent Delecroix](http://www.labri.fr/perso/vdelecro/), LaBRI, Bordeaux, France)
 
 These are notes, exercises and worksheets that are used during the teaching of Python
-at AIMS Rwanda in fall 2016. You can also find part of this information at
-
-    https://sites.google.com/a/aims.ac.rw/academic/scientific-software-development-in-python
+at AIMS Rwanda in fall 2016. You can also find complementary information on
+[AIMS Rwanda website](https://sites.google.com/a/aims.ac.rw/academic/scientific-software-development-in-python).
 
 Week 1
 ------
