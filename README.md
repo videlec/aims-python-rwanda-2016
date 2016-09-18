@@ -25,18 +25,23 @@ Week 2 (subject to changes)
 ---------------------------
 
 - monday:
-   - assignment quick correction
+   - remarks on assignment of week 1
    - Python scripts and modules
    - documentation and doctests
    - IPython
 - tuesday:
-   - random number generation, statistics, probabilities (?)
-   - more?
-- wednseday:
-   - databases (?)
-   - more?
+   - file input/output
+   - string manipulations and formatting
+   - csv, json and xml formats
+   - new Python builtins: `enumerate`, `zip`, `min`, `max`, `sum`, `sorted`
+   - basic statistics
+- wednesday:
+   - new Python datatypes: `set`, `tuples`, `frozenset`, `dict`
+   - slicing (list, arrays, matrices)
+   - more iterators with `itertools`
 - thursday:
    - [git](https://git-scm.com/book/en) basics
+   - distribution of a "Python cheat sheet"
    - start of assignment
 
 The subject of the assignment is [assignment week 2](https://github.com/videlec/pyeuler): Euler projects. To submit
@@ -48,6 +53,7 @@ Week 3 (subject to changes)
 - classes
 - solving differential equations with scipy (uses inheritance)
 - databases, pandas
+- random generation and limit laws
 
 The subject of the assignment are some projects to be realized in groups. To submit
 your assignment you will need to push your changes to the git server at AIMS Rwanda (subjects and
