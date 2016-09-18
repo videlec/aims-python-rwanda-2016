@@ -19,7 +19,7 @@ The subject of the assignment is [arith.pdf](https://github.com/videlec/aims-pyt
 should program all functions inside a single worksheet. To submit your assignment,
 go to the Jupyter menu and download the worksheet in ipynb format ("File ->
 Download as -> Notebook (.ipynb)"). Then send this file by mail at
-vincent.delecroix@labri.fr
+vincent.delecroix@u-bordeaux.fr
 
 Week 2 (subject to changes)
 ---------------------------
