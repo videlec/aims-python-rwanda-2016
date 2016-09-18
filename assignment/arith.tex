@@ -16,12 +16,15 @@
 
 \begin{document}
 \begin{center}
-{\huge Exercises week 1: arithmetic functions}
+\Large Scientific Software Development in Python, AIMS Rwanda 2016 \\ \smallskip
+Assignment 1: arithmetic functions
 \end{center}
 
 \bigskip
 
 For this first sheet of exercises you are asked to create a Jupyter notebook in which you will program several arithmetic functions.
+The answer to the questions should also appear in the notebook in text cells.
+Feel free to do the exercises in any order you like.
 
 \smallskip
 
@@ -67,6 +70,32 @@ Let $n = 123576537645123412$ written in base 10. What are its digits in base 2? 
 What is the sum of the digits of $2^{100}$ written in base 3?
 \end{exercise}
 
+One can also consider the digits of fractions. For example, in base 10 one can write
+$$
+\frac{1}{2} = 0.5
+\qquad
+\frac{1}{3} = 0.(3)
+\qquad
+\frac{27}{28} = 0.96(428571)
+$$
+where the part in paranthesis should be repeated periodically.
+\begin{exercise}
+Write a function \texttt{fraction\_digits(p, q, b)} that assumes that $p < q$ and returns a pair of lists \texttt{[l1, l2]} where:
+\begin{compactitem}
+\item \texttt{l1} is the list of digits that constitutes the preperiodic part of the expansion of $\frac{p}{q}$,
+\item \texttt{l2} is the list of digits that constitutes the periodic part of the digits of $\frac{p}{q}$.
+\end{compactitem}
+For example
+\begin{verbatim}
+>>> fraction_digits(1, 2, 10)
+[[5], []]
+>>> fraction_digits(1, 3, 10)
+[[], [3]]
+>>> fraction_digits(27, 28, 10)
+[[9, 6], [4, 2, 8, 5, 7, 1]]
+\end{verbatim}
+\end{exercise}
+
 \begin{exercise}
 Write a function \texttt{prime\_range(n)} that returns the list of prime numbers less than \texttt{n}. (\textit{hint: use the sieve of Eratosthenes})
 
@@ -79,8 +108,6 @@ Use your function \texttt{prime\_range} to answer the following questions
 Could you guess the asymptotic of this function?
 \end{compactitem}
 \end{exercise}
-
-\newpage
 
 We recall that the set of integers is a unique factorization domain (UFD): any non-zero integer can be uniquely written
  as a product $n = s\ p_0^{k_0}\ p_1^{k_1}\ \ldots\ p_m^{k_m}$, $s$ is the sign (ie either $+1$ or $-1$), $p_i$ are primes and $k_i$ are positive integers.
