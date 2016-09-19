@@ -16,7 +16,7 @@ Each worksheet will occupy a whole seance. You first need to download the worksh
 - [Jupyter worksheet 3](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3.ipynb) functions ([view it online](http://nbviewer.jupyter.org/github/videlec/aims-python-rwanda-2016/blob/master/worksheets/worksheet3.ipynb))
 
 The subject of the assignment is [arith.pdf](https://github.com/videlec/aims-python-rwanda-2016/raw/master/assignment/arith.pdf). You
-should program all functions inside a single worksheet. To submit your assignment,
+should program all functions inside a single Jupyter worksheet. To submit your assignment,
 go to the Jupyter menu and download the worksheet in ipynb format ("File ->
 Download as -> Notebook (.ipynb)"). Then send this file by mail at
 vincent.delecroix@u-bordeaux.fr
@@ -38,6 +38,7 @@ Week 2 (subject to changes)
 - wednesday (worksheet 7 "more Python, more algorithms")
    - new Python datatypes: `set`, `tuples`, `frozenset`, `dict`
    - more iterators with `itertools`
+   - combinatorics and discrete probabilities
 - thursday:
    - "Python cheat sheet"
    - [git](https://git-scm.com/book/en) cloning (? to confirm ?)
@@ -69,6 +70,7 @@ Beyond the material available in this repository, you might want to consult:
 - [Scipy lectures](http://www.scipy-lectures.org/): Python tutorial in 3 sections starting from learning Python up to using advanced features of scipy and pandas
 - [Scipy website](http://scipy.org/): information about the SciPY stack. Contains links to other resources.
 - [Project Euler](https://projecteuler.net/): more than 500 exercises that have to be solved with a computer
+- [IPython tutorial](https://ipython.org/ipython-doc/3/interactive/tutorial.html): tutorial about IPython
 
 Copyright notice
 ----------------
