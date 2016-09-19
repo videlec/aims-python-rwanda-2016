@@ -69,3 +69,18 @@ Beyond the material available in this repository, you might want to consult:
 - [Scipy lectures](http://www.scipy-lectures.org/): Python tutorial in 3 sections starting from learning Python up to using advanced features of scipy and pandas
 - [Scipy website](http://scipy.org/): information about the SciPY stack. Contains links to other resources.
 - [Project Euler](https://projecteuler.net/): more than 500 exercises that have to be solved with a computer
+
+Copyright notice
+----------------
+Copyright (C) 2016 Vincent Delecroix <vincent.delecroix@u-bordeaux.fr>
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0
+International License (CC BY-NC-SA 4.0). This license allows you to reuse this
+material at your convenience but:
+ - it can not be used as part of a commercial activity
+ - you need to specify the original author and sources
+
+You can either read the
+[Creative Commons Deed](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+(Summary) or the [Legal Code](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+(Full licence).
