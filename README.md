@@ -24,37 +24,48 @@ vincent.delecroix@u-bordeaux.fr
 Week 2 (subject to changes)
 ---------------------------
 
-- monday:
+- monday: (worksheet 4 "arrays and matrices" and worksheet 5 "random generation")
    - remarks on assignment of week 1
-   - Python scripts and modules
-   - documentation and doctests
-   - IPython
-- tuesday:
+   - new Python builtins: `enumerate`, `zip`, `min`, `max`, `sum`, `sorted`
+   - array and matrices with numpy/scipy
+   - slicing (list, arrays, matrices)
+   - making and analyzing samples (law of large number, central limit theorem, ...)
+- tuesday (worksheet 6 "input/output and data analysis")
    - file input/output
    - string manipulations and formatting
    - csv, json and xml formats
-   - new Python builtins: `enumerate`, `zip`, `min`, `max`, `sum`, `sorted`
-   - basic statistics
-- wednesday:
+   - data analysis (statistics)
+- wednesday (worksheet 7 "more Python, more algorithms")
    - new Python datatypes: `set`, `tuples`, `frozenset`, `dict`
-   - slicing (list, arrays, matrices)
    - more iterators with `itertools`
 - thursday:
-   - [git](https://git-scm.com/book/en) basics
-   - distribution of a "Python cheat sheet"
+   - "Python cheat sheet"
+   - [git](https://git-scm.com/book/en) cloning (? to confirm ?)
+   - Python scripts and modules
+   - documentation and doctests
+   - IPython
    - start of assignment
 
-The subject of the assignment is [assignment week 2](https://github.com/videlec/pyeuler): Euler projects. To submit
-your assignment you will need to push your changes to the git server at AIMS Rwanda (instruction to come).
+The subject of the assignment will probably be about problems from [Project Euler](https://projecteuler.net)
 
 Week 3 (subject to changes)
 ---------------------------
 
-- classes
-- solving differential equations with scipy (uses inheritance)
-- databases, pandas
-- random generation and limit laws
+- PYthon classes
+- more statistics (tests and p-values)
+- random generation (and properties) of combinatorial objects
+- solving ODE and PDE with scipy 
 
 The subject of the assignment are some projects to be realized in groups. To submit
 your assignment you will need to push your changes to the git server at AIMS Rwanda (subjects and
 instructions to come).
+
+References
+----------
+
+Beyond the material available in this repository, you might want to consult:
+
+- [Python 3 documentation](https://docs.python.org/3/): contains a tutorial for Python3 as well as the description of all modules of the standard library
+- [Scipy lectures](http://www.scipy-lectures.org/): Python tutorial in 3 sections starting from learning Python up to using advanced features of scipy and pandas
+- [Scipy website](http://scipy.org/): information about the SciPY stack. Contains links to other resources.
+- [Project Euler](https://projecteuler.net/): more than 500 exercises that have to be solved with a computer
