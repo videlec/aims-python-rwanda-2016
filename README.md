@@ -6,18 +6,25 @@ These are notes, exercises and worksheets that are used during the teaching of P
 at AIMS Rwanda in fall 2016. You can also find complementary information on
 [AIMS Rwanda website](https://sites.google.com/a/aims.ac.rw/academic/scientific-software-development-in-python).
 
-Week 1: learning the Python language
-------------------------------------
+Week 1
+------
 
-To start the jupyter notebook:
+To start the Jupyter notebook:
 
 - open a terminal
 - run the command `jupyter notebook`
 
-This command starts the Jupyter server and opens your default webbrowser at the
-main Jupyter page. This week we will work with prewritten worksheets. For each
-of them you need to right click on the link, do "Save link as" and save it
-somewhere on the computer. Once done, it is accessible from Jupyter.
+To stop the Jupyter notebook
+
+- for each open worksheet, go to the menu and do "File -> Save and Checkpoint"
+  (in order to save your work) and then "File -> Close and Halt"
+- go in the terminal where you launched the notebook and press `Ctrl-C` right
+  after you need to press `y` and `Enter` (you have 5 seconds to do this
+  second step)
+
+For the first week we work with prewritten worksheets. For each
+of them you need to save the worksheet on your computer (right click on the
+link, then "Save link as").
 
 - [Jupyter worksheet 1](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet1.ipynb) basic Python and plotting ([view it online (read-only version)](http://nbviewer.jupyter.org/github/videlec/aims-python-rwanda-2016/blob/master/worksheets/worksheet1.ipynb))
 - [Old Jupyter worksheet 2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.ipynb) This worksheet is now splitted into two parts:
