@@ -12,8 +12,7 @@ for the jupyter notebook.
 Week 1
 ------
 
-The program of the week consists in 4 worksheets and an assignment. To download
-a document right click on a link and chose "Save link as".
+To download a document right click on a link and chose "Save link as".
 
 - [Jupyter worksheet 1](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet1.ipynb) basic Python and plotting
 - The second worksheet has been split into two parts
@@ -21,9 +20,9 @@ a document right click on a link and chose "Save link as".
     - [Jupyter worksheet 2.2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.2.ipynb) conditionals
     - (you can still access the [Old Jupyter worksheet 2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.ipynb))
 - [Jupyter worksheet 3](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3.ipynb) functions
+- The subject of the assignment is [arith.pdf](https://github.com/videlec/aims-python-rwanda-2016/raw/master/assignment/arith.pdf) for which you can use the following [template worksheet](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/arith.ipynb).
 
-The subject of the assignment is [arith.pdf](https://github.com/videlec/aims-python-rwanda-2016/raw/master/assignment/arith.pdf)
-for which you can use the following [template worksheet](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/arith.ipynb). To submit your assignment go to the Jupyter menu and download the
+To submit your assignment go to the Jupyter menu and download the
 worksheet in ipynb format ("File -> Download as -> Notebook (.ipynb)"). Then
 send this file by mail to the tutors. Do not forget to include your name
 on the worksheet!
@@ -54,7 +53,7 @@ Week 2 (subject to changes)
    - IPython
    - start of assignment
 
-The subject of the assignment will probably be about problems from [Project Euler](https://projecteuler.net)
+The subject of the assignment migt be about problems from [Project Euler](https://projecteuler.net)
 
 Week 3 (subject to changes)
 ---------------------------
@@ -64,9 +63,7 @@ Week 3 (subject to changes)
 - random generation (and properties) of combinatorial objects
 - solving ODE and PDE with scipy 
 
-The subject of the assignment are some projects to be realized in groups. To submit
-your assignment you will need to push your changes to the git server at AIMS Rwanda (subjects and
-instructions to come).
+The subject of the assignment are some projects to be realized in groups.
 
 References
 ----------
