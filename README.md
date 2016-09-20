@@ -9,7 +9,7 @@ at AIMS Rwanda in fall 2016. You can also find complementary information on
 Week 1: learning the Python language
 ------------------------------------
 
-Each worksheet will occupy a whole seance. You first need to download the worksheet on your computer and then access it through the jupyter notebook.
+To start the jupyter notebook Each worksheet will occupy a whole seance. You first need to download the worksheet on your computer and then access it through the jupyter notebook.
 
 - [Jupyter worksheet 1](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet1.ipynb) basic Python and plotting ([view it online (read-only version)](http://nbviewer.jupyter.org/github/videlec/aims-python-rwanda-2016/blob/master/worksheets/worksheet1.ipynb))
 - [Old Jupyter worksheet 2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.ipynb) This worksheet is now splitted into two parts:
@@ -53,7 +53,7 @@ The subject of the assignment will probably be about problems from [Project Eule
 Week 3 (subject to changes)
 ---------------------------
 
-- PYthon classes
+- Python classes
 - more statistics (tests and p-values)
 - random generation (and properties) of combinatorial objects
 - solving ODE and PDE with scipy 
@@ -72,6 +72,15 @@ Beyond the material available in this repository, you might want to consult:
 - [Scipy website](http://scipy.org/): information about the SciPY stack. Contains links to other resources.
 - [Project Euler](https://projecteuler.net/): more than 500 exercises that have to be solved with a computer
 - [IPython tutorial](https://ipython.org/ipython-doc/3/interactive/tutorial.html): tutorial about IPython
+
+Tips and tricks
+---------------
+
+1. For the Jupyter on AIMS computers, in order to see the images produced by
+   matplotlib.pyplot inside the browser you need to execute once these two lines
+
+    import matplotlib
+    %matplotlib inline
 
 Copyright notice
 ----------------
