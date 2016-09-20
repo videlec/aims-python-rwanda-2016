@@ -2,15 +2,18 @@ Scientific Software Development in Python (AIMS Rwanda lectures 2016)
 =====================================================================
 ([Vincent Delecroix](http://www.labri.fr/perso/vdelecro/), LaBRI, Bordeaux, France)
 
-These are notes, exercises and worksheets that are used during the teaching of Python
+This github repository contains material used to teach Python
 at AIMS Rwanda in fall 2016. You can also find complementary information on
 [AIMS Rwanda website](https://sites.google.com/a/aims.ac.rw/academic/scientific-software-development-in-python).
+
+At the bottom of this page you can find a list of references and some tips
+for the jupyter notebook.
 
 Week 1
 ------
 
 The program of the week consists in 4 worksheets and an assignment. To download
-the documents right click on each link below and chose "Sage link as".
+a document right click on a link and chose "Sage link as".
 
 - [Jupyter worksheet 1](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet1.ipynb) basic Python and plotting ([view it online (read-only version)](http://nbviewer.jupyter.org/github/videlec/aims-python-rwanda-2016/blob/master/worksheets/worksheet1.ipynb))
 - The second worksheet has been split into two parts
@@ -70,7 +73,8 @@ References
 
 Beyond the material available in this repository, you might want to consult:
 
-- [Python 3 documentation](https://docs.python.org/3/): contains a tutorial for Python3 as well as the description of all modules of the standard library
+- The "Help" menu available in each Jupyter worksheet
+- [Python 3 documentation](https://docs.python.org/3/): contains among others a tutorial for Python3 and a complete description the standard Python library
 - [Scipy lectures](http://www.scipy-lectures.org/): Python tutorial in 3 sections starting from learning Python up to using advanced features of scipy and pandas
 - [Scipy website](http://scipy.org/): information about the SciPY stack. Contains links to other resources.
 - [Project Euler](https://projecteuler.net/): more than 500 exercises that have to be solved with a computer
