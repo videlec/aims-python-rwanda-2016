@@ -9,7 +9,15 @@ at AIMS Rwanda in fall 2016. You can also find complementary information on
 Week 1: learning the Python language
 ------------------------------------
 
-To start the jupyter notebook Each worksheet will occupy a whole seance. You first need to download the worksheet on your computer and then access it through the jupyter notebook.
+To start the jupyter notebook:
+
+- open a terminal
+- run the command `jupyter notebook`
+
+This command starts the Jupyter server and opens your default webbrowser at the
+main Jupyter page. This week we will work with prewritten worksheets. For each
+of them you need to right click on the link, do "Save link as" and save it
+somewhere on the computer. Once done, it is accessible from Jupyter.
 
 - [Jupyter worksheet 1](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet1.ipynb) basic Python and plotting ([view it online (read-only version)](http://nbviewer.jupyter.org/github/videlec/aims-python-rwanda-2016/blob/master/worksheets/worksheet1.ipynb))
 - [Old Jupyter worksheet 2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.ipynb) This worksheet is now splitted into two parts:
