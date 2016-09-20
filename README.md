@@ -13,7 +13,7 @@ Week 1
 ------
 
 The program of the week consists in 4 worksheets and an assignment. To download
-a document right click on a link and chose "Sage link as".
+a document right click on a link and chose "Save link as".
 
 - [Jupyter worksheet 1](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet1.ipynb) basic Python and plotting
 - The second worksheet has been split into two parts
