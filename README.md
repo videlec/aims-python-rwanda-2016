@@ -6,8 +6,8 @@ These are notes, exercises and worksheets that are used during the teaching of P
 at AIMS Rwanda in fall 2016. You can also find complementary information on
 [AIMS Rwanda website](https://sites.google.com/a/aims.ac.rw/academic/scientific-software-development-in-python).
 
-Week 1
-------
+Week 1: learning the Python language
+------------------------------------
 
 Each worksheet will occupy a whole seance. You first need to download the worksheet on your computer and then access it through the jupyter notebook.
 
@@ -20,8 +20,7 @@ Each worksheet will occupy a whole seance. You first need to download the worksh
 The subject of the assignment is [arith.pdf](https://github.com/videlec/aims-python-rwanda-2016/raw/master/assignment/arith.pdf). You
 should program all functions inside a single Jupyter worksheet. To submit your assignment,
 go to the Jupyter menu and download the worksheet in ipynb format ("File ->
-Download as -> Notebook (.ipynb)"). Then send this file by mail at
-vincent.delecroix@u-bordeaux.fr
+Download as -> Notebook (.ipynb)"). Then send this file by mail to the tutors.
 
 Week 2 (subject to changes)
 ---------------------------
