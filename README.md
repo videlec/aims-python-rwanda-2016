@@ -96,7 +96,7 @@ Tips and tricks
      after you need to press `y` and `Enter` (you have 5 seconds to do this
      second step)
 
-3. (for the Jupyter on AIMS computers) in order to see the `matplotlib` images
+3. (for AIMS computers) in order to see the `matplotlib` images
    embedded in the browser you need to execute the following line in a code cell
 
        %matplotlib inline
