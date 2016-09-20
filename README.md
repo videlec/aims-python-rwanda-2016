@@ -16,11 +16,11 @@ the documents right click on each link below and chose "Sage link as".
 - The second worksheet has been split into two parts
     - [Jupyter worksheet 2.1](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.1.ipynb) lists and for loops ([view it online](http://nbviewer.jupyter.org/github/videlec/aims-python-rwanda-2016/blob/master/worksheets/worksheet2.1.ipynb))
     - [Jupyter worksheet 2.2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.2.ipynb) conditionals ([view it online](http://nbviewer.jupyter.org/github/videlec/aims-python-rwanda-2016/blob/master/worksheets/worksheet2.2.ipynb))
-  (you can still access the [Old Jupyter worksheet 2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.ipynb))
+    - (you can still access the [Old Jupyter worksheet 2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.ipynb))
 - [Jupyter worksheet 3](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3.ipynb) functions ([view it online](http://nbviewer.jupyter.org/github/videlec/aims-python-rwanda-2016/blob/master/worksheets/worksheet3.ipynb))
 
 The subject of the assignment is [arith.pdf](https://github.com/videlec/aims-python-rwanda-2016/raw/master/assignment/arith.pdf)
-and you can use the following [template worksheet](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/arith.ipynb). To submit your assignment go to the Jupyter menu and download the
+for which you can use the following [template worksheet](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/arith.ipynb). To submit your assignment go to the Jupyter menu and download the
 worksheet in ipynb format ("File -> Download as -> Notebook (.ipynb)"). Then
 send this file by mail to the tutors. Do not forget to include your name
 on the worksheet!
@@ -92,12 +92,10 @@ Tips and tricks
      after you need to press `y` and `Enter` (you have 5 seconds to do this
      second step)
 
-3. (for the Jupyter on AIMS computers) in order to see the images produced by
-   matplotlib.pyplot inside the browser you need to execute once these two lines
-   in a code cell
+3. (for the Jupyter on AIMS computers) in order to see the `matplotlib` images
+   embedded in the browser you need to execute the following line in a code cell
 
-    import matplotlib
-    %matplotlib inline
+       %matplotlib inline
 
 Copyright notice
 ----------------
