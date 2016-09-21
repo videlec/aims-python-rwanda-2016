@@ -19,6 +19,7 @@ To download a document right click on a link and chose "Save link as".
     - [Jupyter worksheet 2.1](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.1.ipynb) lists and for loops
     - [Jupyter worksheet 2.2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.2.ipynb) conditionals
     - (you can still access the [Old Jupyter worksheet 2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.ipynb))
+- [Jupyter worksheet 3](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3.ipynb) functions
 - The subject of the assignment will be about fractals (to come)
 
 To submit your assignment go to the Jupyter menu and download the
@@ -28,8 +29,6 @@ on the worksheet!
 
 Week 2 (subject to changes)
 ---------------------------
-
-- [Jupyter worksheet 3](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3.ipynb) functions
 
 - worksheet 4 "arrays and matrices"
    - new Python builtins: `enumerate`, `zip`, `min`, `max`, `sum`, `sorted`
