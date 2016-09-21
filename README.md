@@ -20,7 +20,7 @@ To download a document right click on a link and chose "Save link as".
     - [Jupyter worksheet 2.2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.2.ipynb) conditionals
     - (you can still access the [Old Jupyter worksheet 2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.ipynb))
 - [Jupyter worksheet 3](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3.ipynb) functions
-- The subject of the assignment will be about fractals (to come)
+- The subject of the assignment is [assignment1.pdf](https://github.com/videlec/aims-python-rwanda-2016/raw/master/assignment/assignment1.pdf) for which you can use the following [template worksheet](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/arith.ipynb).
 
 To submit your assignment go to the Jupyter menu and download the
 worksheet in ipynb format ("File -> Download as -> Notebook (.ipynb)"). Then

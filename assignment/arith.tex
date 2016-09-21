@@ -56,51 +56,6 @@ of your algorithms.
 
 \smallskip
 
-\begin{exercise}
-Write a function \texttt{prod(l)} that returns the product of the elements in
-the list \texttt{l}. In case the list is empty, the function should return
-\texttt{1}.
-
-\smallskip\noindent
-For example
-\begin{verbatim}
->>> prod([1, 3, 2, 3])
-18
->>> prod([])
-1
-\end{verbatim}
-\end{exercise}
-
-
-\begin{exercise}
-Write a function \texttt{gcd(x, y)} that computes the greatest common divisor
-of two integers using Euclide algorithm.
-
-\smallskip\noindent
-Plot the graphic of the function $n \mapsto \# \{(p,q): 1 \leq p \leq n,\ 1 \leq q \leq n,\ \gcd(p, q) = 1\}$.
-
-\smallskip\noindent
-Could you guess the asymptotic?
-\end{exercise}
-
-\bigskip
-
-Recall that the \emph{digits} of an integer $n$ in base $b$ is the sequence of numbers $(n_0, n_1, \ldots, n_d)$
-in $\{0, 1, \ldots, b-1\}$ so that
-\[
-n = \sum_{i=0}^d n_i b^i.
-\]
-For example, the digits of $12$ in base 10 are $(2,1)$ and in base $2$ are $(0,1,1)$.
-\begin{exercise}
-Write a function \texttt{digits(n, b)} that return the list of digits of the number \texttt{n} in base \texttt{b}.
-
-\smallskip\noindent
-Let $n = 123576537645123412$ written in base 10. What are its digits in base 2? In base 3?
-
-\smallskip\noindent
-What is the sum of the digits of $2^{100}$ written in base 3?
-\end{exercise}
-
 One can also consider the digits of fractions. For example, in base 10 one can write
 $$
 \frac{1}{2} = 0.5
