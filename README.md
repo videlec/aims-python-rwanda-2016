@@ -19,8 +19,7 @@ To download a document right click on a link and chose "Save link as".
     - [Jupyter worksheet 2.1](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.1.ipynb) lists and for loops
     - [Jupyter worksheet 2.2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.2.ipynb) conditionals
     - (you can still access the [Old Jupyter worksheet 2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.ipynb))
-- [Jupyter worksheet 3](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3.ipynb) functions
-- The subject of the assignment is [arith.pdf](https://github.com/videlec/aims-python-rwanda-2016/raw/master/assignment/arith.pdf) for which you can use the following [template worksheet](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/arith.ipynb).
+- The subject of the assignment will be about fractals (to come)
 
 To submit your assignment go to the Jupyter menu and download the
 worksheet in ipynb format ("File -> Download as -> Notebook (.ipynb)"). Then
@@ -30,12 +29,15 @@ on the worksheet!
 Week 2 (subject to changes)
 ---------------------------
 
-- monday: (worksheet 4 "arrays and matrices" and worksheet 5 "random generation")
-   - remarks on assignment of week 1
+- [Jupyter worksheet 3](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3.ipynb) functions
+
+- worksheet 4 "arrays and matrices"
    - new Python builtins: `enumerate`, `zip`, `min`, `max`, `sum`, `sorted`
    - array and matrices with numpy/scipy
    - slicing (list, arrays, matrices)
-   - making and analyzing samples (law of large number, central limit theorem, ...)
+   - linear algebra with numpy
+- worksheet 5 "probabilities"
+
 - tuesday (worksheet 6 "input/output and data analysis")
    - file input/output
    - string manipulations and formatting
@@ -53,7 +55,8 @@ Week 2 (subject to changes)
    - IPython
    - start of assignment
 
-The subject of the assignment migt be about problems from [Project Euler](https://projecteuler.net)
+- The subject of the assignment is [arith.pdf](https://github.com/videlec/aims-python-rwanda-2016/raw/master/assignment/arith.pdf) for which you can use the following [template worksheet](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/arith.ipynb).
+
 
 Week 3 (subject to changes)
 ---------------------------
@@ -61,9 +64,12 @@ Week 3 (subject to changes)
 - Python classes
 - more statistics (tests and p-values)
 - random generation (and properties) of combinatorial objects
-- solving ODE and PDE with scipy 
+- solving ODE and PDE with scipy
 
 The subject of the assignment are some projects to be realized in groups.
+
+The subject of the assignment migt be about problems from [Project Euler](https://projecteuler.net)
+
 
 References
 ----------
