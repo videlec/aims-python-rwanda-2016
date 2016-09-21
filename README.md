@@ -27,12 +27,6 @@ worksheet in ipynb format ("File -> Download as -> Notebook (.ipynb)"). Then
 send this file by mail to the tutors. Do not forget to include your name
 on the worksheet!
 
-Week 2 (in progress)
----------------------
-
-Week 3 (subject to changes)
----------------------------
-
 References
 ----------
 
