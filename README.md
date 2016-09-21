@@ -1,5 +1,5 @@
-Scientific Software Development in Python (AIMS Rwanda lectures 2016)
-=====================================================================
+Scientific Software Development in Python (AIMS Rwanda, 2016)
+=============================================================
 ([Vincent Delecroix](http://www.labri.fr/perso/vdelecro/), LaBRI, Bordeaux, France)
 
 This github repository contains material used to teach Python
