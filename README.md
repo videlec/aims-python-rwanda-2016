@@ -27,48 +27,11 @@ worksheet in ipynb format ("File -> Download as -> Notebook (.ipynb)"). Then
 send this file by mail to the tutors. Do not forget to include your name
 on the worksheet!
 
-Week 2 (subject to changes)
----------------------------
-
-- worksheet 4 "arrays and matrices"
-   - new Python builtins: `enumerate`, `zip`, `min`, `max`, `sum`, `sorted`
-   - array and matrices with numpy/scipy
-   - slicing (list, arrays, matrices)
-   - linear algebra with numpy
-- worksheet 5 "probabilities"
-
-- tuesday (worksheet 6 "input/output and data analysis")
-   - file input/output
-   - string manipulations and formatting
-   - csv, json and xml formats
-   - data analysis (statistics)
-- wednesday (worksheet 7 "more Python, more algorithms")
-   - new Python datatypes: `set`, `tuples`, `frozenset`, `dict`
-   - more iterators with `itertools`
-   - combinatorics and discrete probabilities
-- thursday:
-   - "Python cheat sheet"
-   - [git](https://git-scm.com/book/en) cloning (? to confirm ?)
-   - Python scripts and modules
-   - documentation and doctests
-   - IPython
-   - start of assignment
-
-- The subject of the assignment is [arith.pdf](https://github.com/videlec/aims-python-rwanda-2016/raw/master/assignment/arith.pdf) for which you can use the following [template worksheet](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/arith.ipynb).
-
+Week 2 (in progress)
+---------------------
 
 Week 3 (subject to changes)
 ---------------------------
-
-- Python classes
-- more statistics (tests and p-values)
-- random generation (and properties) of combinatorial objects
-- solving ODE and PDE with scipy
-
-The subject of the assignment are some projects to be realized in groups.
-
-The subject of the assignment migt be about problems from [Project Euler](https://projecteuler.net)
-
 
 References
 ----------
