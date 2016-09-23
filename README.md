@@ -22,6 +22,14 @@ To download a document right click on a link and chose "Save link as".
 - [Jupyter worksheet 3](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3.ipynb) functions
 
 
+Week 2
+------
+
+Applications of Python to mathematics.
+- statistics and probability
+- linear algebra
+- number theory
+
 References
 ----------
 
