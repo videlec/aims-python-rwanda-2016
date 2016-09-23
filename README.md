@@ -9,8 +9,8 @@ at AIMS Rwanda in fall 2016. You can also find complementary information on
 At the bottom of this page you can find a list of references and some tips
 for the jupyter notebook.
 
-Week 1
-------
+Week 1: learning Python
+-----------------------
 
 To download a document right click on a link and chose "Save link as".
 
@@ -22,10 +22,10 @@ To download a document right click on a link and chose "Save link as".
 - [Jupyter worksheet 3](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3.ipynb) functions
 
 
-Week 2
-------
+Week 2: application to mathematics
+----------------------------------
 
-Applications of Python to mathematics.
+We will see how Python can help with
 - statistics and probability
 - linear algebra
 - number theory
