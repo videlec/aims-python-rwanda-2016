@@ -20,12 +20,6 @@ To download a document right click on a link and chose "Save link as".
     - [Jupyter worksheet 2.2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.2.ipynb) conditionals
     - (you can still access the [Old Jupyter worksheet 2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.ipynb))
 - [Jupyter worksheet 3](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3.ipynb) functions
-- For the assignment you are asked to program solutions to various mathematical problems with [assignment1.pdf](https://github.com/videlec/aims-python-rwanda-2016/raw/master/assignment/assignment1.pdf) for which you can use the following [template worksheet](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/assignment_template.ipynb). To do this assignment you first need to understand all the material of the worksheets. If you feel like you need more time to learn about Python, ask for it!
-
-To submit your assignment go to the Jupyter menu and download the
-worksheet in ipynb format ("File -> Download as -> Notebook (.ipynb)"). Then
-send this file by mail to the tutors. Do not forget to include your name
-on the worksheet!
 
 
 References
