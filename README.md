@@ -19,16 +19,20 @@ To download a document right click on a link and chose "Save link as".
     - [Jupyter worksheet 2.1](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.1.ipynb) lists and for loops
     - [Jupyter worksheet 2.2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.2.ipynb) conditionals
     - (you can still access the [Old Jupyter worksheet 2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.ipynb))
-- [Jupyter worksheet 3](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3.ipynb) functions
 
+You can also [this demo about Fibonacci numbers](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/fibonacci.ipynb) 
 
 Week 2: application to mathematics
 ----------------------------------
 
-We will see how Python can help with
-- statistics and probability
-- linear algebra
-- number theory
+- [Jupyter worksheet 3 (assignment)](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3-assignment.ipynb) functions. This worksheet is the subject of the first assignment. To submit your assignment go to the Jupyter menu and download the worksheet in ipynb format ("File -> Download as -> Notebook (.ipynb)"). Then send this file by mail to the tutors. Do not forget to write your name in the worksheet! You are free to ask as many questions as you want to me or the tutors.
+
+- Jupyter worksheet 4: probability and statistics.
+
+Week 3: math and programming project
+------------------------------------
+
+You will be assigned group projects.
 
 References
 ----------
