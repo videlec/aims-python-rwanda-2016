@@ -25,7 +25,7 @@ You can also [this demo about Fibonacci numbers](https://raw.githubusercontent.c
 Week 2: application to mathematics
 ----------------------------------
 
-- [Jupyter worksheet 3 (assignment)](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3-assignment.ipynb) functions. This worksheet is the subject of the first assignment. To submit your assignment go to the Jupyter menu and download the worksheet in ipynb format ("File -> Download as -> Notebook (.ipynb)"). Then send this file by mail to the tutors. Do not forget to write your name in the worksheet! You are free to ask as many questions as you want to me or the tutors.
+- [Jupyter worksheet 3 (assignment)](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3-assignment.ipynb) functions. This worksheet is the subject of the first assignment that has to be sent before monday 9pm. To submit your assignment go to the Jupyter menu and download the worksheet in ipynb format ("File -> Download as -> Notebook (.ipynb)"). Then send this file by mail to the tutors. Do not forget to write your name in the worksheet! You are free to ask as many questions as you want to me or the tutors.
 
 - Jupyter worksheet 4: probability and statistics.
 
