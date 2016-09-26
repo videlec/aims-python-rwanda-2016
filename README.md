@@ -20,7 +20,7 @@ To download a document right click on a link and chose "Save link as".
     - [Jupyter worksheet 2.2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.2.ipynb) conditionals
     - (you can still access the [Old Jupyter worksheet 2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet2.ipynb))
 
-You can also [this demo about Fibonacci numbers](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/fibonacci.ipynb) 
+You can also download [this demo about Fibonacci numbers](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/fibonacci.ipynb) 
 
 Week 2: application to mathematics
 ----------------------------------
