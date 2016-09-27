@@ -29,12 +29,18 @@ Week 2: application to mathematics
 - [Jupyter worksheet 4](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet4.ipynb) probability.
     - [correction part 1](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet4-1.pdf): correction of the parts "Plotting discrete probability measures" and "Plotting continuous probability measure".
 
-- Python versus IPython, Python scripts, Python modules
+Starting from thursday and up to the end of the course, there will be a quick questions/answers each morning (10min time).
+A sheet of paper will be distributed to each of you with a list of commands. You will have to write down what would be
+the output of these commands when run in a Jupyter Notebook. You have to answer without using a computer of course. The material of
+the two tests of week 2 are contained in worksheet 1, worksheet 2.1 and workheet 2.2.
 
 Week 3: math and programming project
 ------------------------------------
 
-You will be assigned group projects.
+You will be assigned group projects. Each group will be made of 3 students and constituted by the pedagogic
+team. During the week-end, each group will have to chose three subjects by order of preference and
+submit their choices to the tutors before sunday 7pm. The final decision of project allocation will
+be made on sunday night.
 
 References
 ----------
