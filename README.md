@@ -34,6 +34,18 @@ A sheet of paper will be distributed to each of you with a list of commands. You
 the output of these commands when run in a Jupyter Notebook. You have to answer without using a computer of course. The material of
 the two tests of week 2 are contained in worksheet 1, worksheet 2.1 and workheet 2.2.
 
+The assignment (to be submitted before saturday 12pm) consists in programming in a Jupyter worksheet:
+- a function `digits(n, b)` that returns the list of digits of `n` in base `b`
+- a function `prime_range(n)` that returns the list of the prime numbers smaller than `n`
+- a function `is_prime(n)` that returns `True` if `n` is prime and `False` otherwise
+- a function `gcd(x, y)` that computes the greatest common divisor of `x` and `y`
+- solving various problems from [Project Euler](https://projecteuler.net/) with at least:
+   - one problem among: [46](https://projecteuler.net/problem=46), [12](https://projecteuler.net/problem=12), [5](https://projecteuler.net/problem=5), [3](https://projecteuler.net/problem=3), [21](https://projecteuler.net/problem=21), [23](https://projecteuler.net/problem=23), [7](https://projecteuler.net/problem=7), [27](https://projecteuler.net/problem=27), [10](https://projecteuler.net/problem=10), [35](https://projecteuler.net/problem=35), [37](https://projecteuler.net/problem=37), [47](https://projecteuler.net/problem=47), [25](https://projecteuler.net/problem=25)
+   - one problem among: [28](https://projecteuler.net/problem=28), [46](https://projecteuler.net/problem=46), [2](https://projecteuler.net/problem=2), [9](https://projecteuler.net/problem=9), [39](https://projecteuler.net/problem=39), [14](https://projecteuler.net/problem=14)
+   - one problem among: [20](https://projecteuler.net/problem=20), [13](https://projecteuler.net/problem=13), [30](https://projecteuler.net/problem=30), [16](https://projecteuler.net/problem=16)
+   - one problem among: [22](https://projecteuler.net/problem=22), [11](https://projecteuler.net/problem=11), [8](https://projecteuler.net/problem=8), [18](https://projecteuler.net/problem=18)
+   - the problem [15](https://projecteuler.net/problem=15)
+
 Week 3: math and programming project
 ------------------------------------
 
