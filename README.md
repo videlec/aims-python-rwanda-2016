@@ -29,6 +29,7 @@ Week 2: application to mathematics
 - [Jupyter worksheet 4](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet4.ipynb) probability.
     - [correction part 1](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet4-1.pdf): correction of the parts "Plotting discrete probability measures" and "Plotting continuous probability measure".
     - [correction part 2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet4-2.pdf): correction of the parts "Sampling"
+- [Jupyter worksheet 5](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet5.ipynb): file input and output.
 
 Starting from thursday and up to the end of the course, there will be a quick questions/answers each morning (10min time).
 A sheet of paper will be distributed to each of you with a list of commands. You will have to write down what would be
