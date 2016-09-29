@@ -46,16 +46,18 @@ The assignment (to be submitted before saturday 12pm) consists in programming in
    - one problem among: [46](https://projecteuler.net/problem=46), [12](https://projecteuler.net/problem=12), [21](https://projecteuler.net/problem=21), [23](https://projecteuler.net/problem=23), [7](https://projecteuler.net/problem=7), [27](https://projecteuler.net/problem=27), [10](https://projecteuler.net/problem=10), [35](https://projecteuler.net/problem=35), [37](https://projecteuler.net/problem=37), [47](https://projecteuler.net/problem=47), [25](https://projecteuler.net/problem=25)
    - one problem among: [28](https://projecteuler.net/problem=28), [46](https://projecteuler.net/problem=46), [9](https://projecteuler.net/problem=9), [39](https://projecteuler.net/problem=39), [14](https://projecteuler.net/problem=14)
    - one problem among: [20](https://projecteuler.net/problem=20), [13](https://projecteuler.net/problem=13), [30](https://projecteuler.net/problem=30), [16](https://projecteuler.net/problem=16)
-   - one problem among: [22](https://projecteuler.net/problem=22), [11](https://projecteuler.net/problem=11), [8](https://projecteuler.net/problem=8), [18](https://projecteuler.net/problem=18)
    - the problem [15](https://projecteuler.net/problem=15)
 
 Week 3: math and programming project
 ------------------------------------
 
+- recursion (end of worksheet 3)
+- file input/and output (worksheet 5)
+
 You will be assigned group projects. Each group will be made of 3 students and constituted by the pedagogic
 team. During the week-end, each group will have to chose three subjects by order of preference and
 submit their choices to the tutors before sunday 7pm. The final decision of project allocation will
-be made on sunday night.
+be made on sunday night. This is the subject of the assignment.
 
 References
 ----------
