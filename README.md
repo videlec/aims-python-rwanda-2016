@@ -30,7 +30,6 @@ Week 2: application to mathematics
     - [correction part 1](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet4-1.pdf): correction of the parts "Plotting discrete probability measures" and "Plotting continuous probability measure".
     - [correction part 2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet4-2.pdf): correction of the parts "Sampling"
 
-
 Starting from thursday and up to the end of the course, there will be a quick questions/answers each morning (10min time).
 A sheet of paper will be distributed to each of you with a list of commands. You will have to write down what would be
 the output of these commands when run in a Jupyter Notebook. You have to answer without using a computer of course. The material of
@@ -46,18 +45,27 @@ The assignment (to be submitted before saturday 12pm) consists in programming in
    - one problem among: [46](https://projecteuler.net/problem=46), [12](https://projecteuler.net/problem=12), [21](https://projecteuler.net/problem=21), [23](https://projecteuler.net/problem=23), [7](https://projecteuler.net/problem=7), [27](https://projecteuler.net/problem=27), [10](https://projecteuler.net/problem=10), [35](https://projecteuler.net/problem=35), [37](https://projecteuler.net/problem=37), [47](https://projecteuler.net/problem=47), [25](https://projecteuler.net/problem=25)
    - one problem among: [28](https://projecteuler.net/problem=28), [46](https://projecteuler.net/problem=46), [9](https://projecteuler.net/problem=9), [39](https://projecteuler.net/problem=39), [14](https://projecteuler.net/problem=14)
    - one problem among: [20](https://projecteuler.net/problem=20), [13](https://projecteuler.net/problem=13), [30](https://projecteuler.net/problem=30), [16](https://projecteuler.net/problem=16)
+   - one problem among: [22](https://projecteuler.net/problem=22), [11](https://projecteuler.net/problem=11), [8](https://projecteuler.net/problem=8), [18](https://projecteuler.net/problem=18)
    - the problem [15](https://projecteuler.net/problem=15)
 
 Week 3: math and programming project
 ------------------------------------
 
-- recursion (end of worksheet 3)
-- file input/and output (worksheet 5)
+The program will be confirmed. In each course, there will be 1h dedicated to
+learning a new Python technique and 1h for your research project (see below).
 
-You will be assigned group projects. Each group will be made of 3 students and constituted by the pedagogic
-team. During the week-end, each group will have to chose three subjects by order of preference and
-submit their choices to the tutors before sunday 7pm. The final decision of project allocation will
-be made on sunday night. This is the subject of the assignment.
+New Python techniques to be learned (to be confirmed):
+
+- file input/and output (worksheet 5)
+- more slicing and iterations (worksheet 6)
+- hasing, set, tuple, dictionaries (worksheet 7)
+- recursion (end of worksheet 3)
+
+For the assignment you will have research projects in group. Each group will be
+made of 3 or 4 students (the constitution will be given on friday evening of
+week 2). During the week-end, each group will have to chose three subjects by
+order of preference and submit their choices to the tutors before sunday 7pm.
+The final decision of project allocation will be made for monday morning.
 
 References
 ----------
