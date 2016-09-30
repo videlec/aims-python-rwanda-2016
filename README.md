@@ -49,6 +49,10 @@ The assignment (to be submitted before saturday 12pm) consists in programming in
    - one problem among: [22](https://projecteuler.net/problem=22), [11](https://projecteuler.net/problem=11), [8](https://projecteuler.net/problem=8), [18](https://projecteuler.net/problem=18)
    - the problem [15](https://projecteuler.net/problem=15)
 
+
+You can also download [this demo about timings of the is\_prime function](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/timings.ipynb) 
+
+W
 Week 3: math and programming project
 ------------------------------------
 
