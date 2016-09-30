@@ -70,6 +70,9 @@ week 2). During the week-end, each group will have to chose three subjects by
 order of preference and submit their choices to the tutors before sunday 7pm.
 The final decision of project allocation will be made for monday morning.
 
+- [groups](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/groups_week3.pdf)
+- [subjects](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/subjects_week3.pdf)
+
 References
 ----------
 
