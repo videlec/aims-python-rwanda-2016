@@ -36,7 +36,7 @@ A sheet of paper will be distributed to each of you with a list of commands. You
 the output of these commands when run in a Jupyter Notebook. You have to answer without using a computer of course. The material of
 the two tests of week 2 are contained in worksheet 1, worksheet 2.1 and workheet 2.2.
 
-The assignment (to be submitted before saturday 12pm) consists in programming in a Jupyter worksheet:
+The assignment (to be submitted before saturday 11:59:59pm) consists in programming in a Jupyter worksheet:
 - a function `digits(n, b)` that returns the list of digits of `n` in base `b`
 - a function `prime_range(n)` that returns the list of the prime numbers smaller than `n`
 - a function `is_prime(n)` that returns `True` if `n` is prime and `False` otherwise
