@@ -52,7 +52,6 @@ The assignment (to be submitted before saturday 11:59:59pm) consists in programm
 
 You can also download [this demo about timings of the is\_prime function](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/timings.ipynb) 
 
-W
 Week 3: math and programming project
 ------------------------------------
 
