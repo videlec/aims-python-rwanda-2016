@@ -55,12 +55,11 @@ Week 3: math and programming project
 The program will be confirmed. In each course, there will be 1h dedicated to
 learning a new Python technique and 1h for your research project (see below).
 
-New Python techniques to be learned (to be confirmed):
+New Python techniques to be learned:
 
-- file input/and output (worksheet 5)
+- recursion (end of worksheet 3)
 - more slicing and iterations (worksheet 6)
 - hasing, set, tuple, dictionaries (worksheet 7)
-- recursion (end of worksheet 3)
 
 For the assignment you will have research projects in group. Each group will be
 made of 3 or 4 students (the constitution will be given on friday evening of
