@@ -61,7 +61,8 @@ learning a new Python technique and 1h for your research project (see below).
 New Python techniques to be learned:
 
 - recursion (end of worksheet 3)
-- more slicing and iterations (worksheet 6)
+- [Jupyter worksheet 6](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet6.ipynb): slicing
+- [Jupyter exercises on for loops](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet-exercises-for-loop.ipynb): exercises on for loops
 - hasing, set, tuple, dictionaries (worksheet 7)
 
 For the assignment you will have research projects in group. Each group will be
