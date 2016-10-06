@@ -49,6 +49,8 @@ The assignment (to be submitted before saturday 11:59:59pm) consists in programm
    - one problem among: [22](https://projecteuler.net/problem=22), [11](https://projecteuler.net/problem=11), [8](https://projecteuler.net/problem=8), [18](https://projecteuler.net/problem=18)
    - the problem [15](https://projecteuler.net/problem=15)
 
+A solution for the arithmetic function can be found [here in pdf format](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/assignment2-correction.pdf).
+
 
 You can also download [this demo about timings of the is\_prime function](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/timings.ipynb) 
 
