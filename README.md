@@ -63,7 +63,6 @@ New Python techniques to be learned:
 - recursion (end of worksheet 3)
 - [Jupyter worksheet 6](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet6.ipynb): slicing
 - [Jupyter exercises on for loops](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet-exercises-for-loop.ipynb): exercises on for loops
-- hasing, set, tuple, dictionaries (worksheet 7)
 
 For the assignment you will have research projects in group. Each group will be
 made of 3 or 4 students (the constitution will be given on friday evening of
@@ -73,6 +72,8 @@ The final decision of project allocation will be made for monday morning.
 
 - [groups](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/groups_week3.pdf)
 - [subjects](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/subjects_week3.pdf)
+- [presentation planning](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/planning_friday.pdf)
+
 
 References
 ----------
