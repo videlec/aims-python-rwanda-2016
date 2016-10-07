@@ -26,7 +26,8 @@ Week 2: application to mathematics
 ----------------------------------
 
 - [Jupyter worksheet 3 (assignment)](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3-assignment.ipynb) functions. This worksheet is the subject of the first assignment that has to be sent before monday 9pm. To submit your assignment go to the Jupyter menu and download the worksheet in ipynb format ("File -> Download as -> Notebook (.ipynb)"). Then send this file by mail to the tutors. Do not forget to write your name in the worksheet! You are free to ask as many questions as you want to me or the tutors.
-    - Correction of [the workshet 3 in pdf format](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3-corrected.pdf)
+    - [correction of the workshet 3 (pdf format)](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet3-corrected.pdf)
+    - [additional remarks (pdf format)](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/remarks_assignment1.pdf).
 - [Jupyter worksheet 4](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet4.ipynb) probability.
     - [correction part 1](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet4-1.pdf): correction of the parts "Plotting discrete probability measures" and "Plotting continuous probability measure".
     - [correction part 2](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/worksheet4-2.pdf): correction of the parts "Sampling"
@@ -50,8 +51,7 @@ The assignment (to be submitted before saturday 11:59:59pm) consists in programm
    - one problem among: [22](https://projecteuler.net/problem=22), [11](https://projecteuler.net/problem=11), [8](https://projecteuler.net/problem=8), [18](https://projecteuler.net/problem=18)
    - the problem [15](https://projecteuler.net/problem=15)
 
-A solution for the arithmetic function can be found [here in pdf format](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/assignment2-correction.pdf)
-and some additional remarks are available [here in pdf format](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/assignment/remarks_assignment1.pdf).
+A solution for the arithmetic function can be found [here in pdf format](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/assignment2-correction.pdf).
 
 You can also download [this demo about timings of the is\_prime function](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/worksheets/timings.ipynb) 
 
