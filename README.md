@@ -77,6 +77,7 @@ The final decision of project allocation will be made for monday morning.
 - [subjects](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/subjects_week3.pdf)
 - [presentation planning](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/planning_friday.pdf)
 
+I compiled all remarks about oral and writing in [Remarks about assignment 3 (pdf document)](https://raw.githubusercontent.com/videlec/aims-python-rwanda-2016/master/assignment/remarks_assignment3.pdf).
 
 References
 ----------
