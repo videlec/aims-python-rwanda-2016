@@ -85,7 +85,7 @@ References
 Beyond the material available in this repository, you might want to consult:
 
 - The "Help" menu available in each Jupyter worksheet
-- [Python 3 documentation](https://docs.python.org/3/): contains among others a tutorial for Python3 and a complete description the standard Python library
+- [Python 3 documentation](https://docs.python.org/3/): contains among others a [tutorial](https://docs.python.org/3/tutorial/index.html) and a complete description of the standard Python library
 - [Scipy lectures](http://www.scipy-lectures.org/): Python tutorial in 3 sections starting from learning Python up to using advanced features of scipy and pandas
 - [Scipy website](http://scipy.org/): information about the SciPY stack. Contains links to other resources.
 - [Project Euler](https://projecteuler.net/): more than 500 exercises that have to be solved with a computer
